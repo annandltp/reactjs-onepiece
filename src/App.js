@@ -63,9 +63,8 @@ function App() {
       
 
         <div className="media-icons">
-          <a href="#"><i className="fab fa-facebook-f" /></a>
-          <a href="#"><i className="fab fa-instagram" /></a>
-          <a href="#"><i className="fab fa-twitter" /></a>
+          <a href="https://www.instagram.com/annandl__/?hl=en"><i className="fab fa-instagram" /></a>
+          <a href="https://twitter.com/annandl_"><i className="fab fa-twitter" /></a>
         </div>
         <div className="slider-navigation">
           <div className="nav-btn active" />
@@ -74,6 +73,7 @@ function App() {
           <div className="nav-btn" />
           <div className="nav-btn" />
         </div>
+        <footer><p>© Anandela 2021</p></footer>
       </section>
 
       <audio id="audio" autoPlay loop>
